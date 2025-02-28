@@ -4,5 +4,3 @@ This project builds a **Machine Learning model** using **Linear Regression** to 
 
 ---
 
-## 📂 Project Structure
-
